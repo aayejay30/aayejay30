@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, This is Adrian James
 
-<!--
-**aayejay30/aayejay30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Adrian, a Business Intelligence Analysis student at TripleTen. I have been parcipating in TripleTen bootcamp for several weeks. I am in the last sprint of the bootcamp. In the bootcamp, I've learned Spreadsheet Data Analysis, SQL, Business Analytics, Tableau and Power BI. 
 
-Here are some ideas to get you started:
+I am currently job searching for Business Analysis for any company, just looking for the experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my final project for TripleTen and creating my career portfolio. 
+- 🌱 I’m recently learned about Power BI and Tableau, discovering the differences between the two.  
+- 👯 I’m looking to collaborate more on Javascript, SQL, and Phython with my experience of HTML. 
+- 🤔 I’m looking for help with Power BI and Tableau, with the coding portion of what table or sheet goes into the brackets. 
+- 📫 How to reach me: 
+  - Gmail: adrianjames109@gmail.com 
+  - LinkedIn: https://www.linkedin.com/in/adrian-james-1687a7366/
+- ⚡ Fun fact: 
+  - I love to travel, but barely got enough money to go anywhere.
+  - I like doing outside activities, recently got into disc golf and mini golf.
+  - From time to time, I like to look at my credit and organize my bills.   
